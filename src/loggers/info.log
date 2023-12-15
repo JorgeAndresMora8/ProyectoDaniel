@@ -1,0 +1,49 @@
+[2023-04-20T20:47:18.424] [INFO] info - NEW USER REGISTERED: dianacmora@gmail.com
+[2023-04-20T21:01:02.134] [INFO] info - NEW USER REGISTERED: andrea@gmail.com
+[2023-04-20T21:02:18.259] [ERROR] error - ERROR IN ORDER PROCESS: carService is not defined
+[2023-04-20T21:03:42.388] [ERROR] error - PRODUCT ORDER ERROR: carService is not defined
+[2023-04-20T21:22:00.169] [ERROR] error - PRODUCT ORDER ERROR: carService is not defined
+[2023-04-21T08:38:34.041] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T08:38:54.035] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T08:39:16.113] [ERROR] error - PRODUCT ORDER ERROR: carService is not defined
+[2023-04-21T08:39:23.992] [ERROR] error - PRODUCT ORDER ERROR: carService is not defined
+[2023-04-21T08:40:03.508] [ERROR] error - PRODUCT ORDER ERROR: carService is not defined
+[2023-04-21T08:46:16.014] [ERROR] error - PRODUCT ORDER ERROR: card code space missing
+[2023-04-21T08:51:13.976] [ERROR] error - PRODUCT ORDER ERROR: card code space missing
+[2023-04-21T08:59:05.578] [ERROR] error - PRODUCT ORDER ERROR: card password missing
+[2023-04-21T08:59:20.155] [ERROR] error - PRODUCT ORDER ERROR: card code space missing
+[2023-04-21T09:04:56.442] [ERROR] error - PRODUCT ORDER ERROR: card password missing
+[2023-04-21T09:24:10.707] [ERROR] error - ERROR IN LOGIN PROCESS: Invalid credentials
+[2023-04-21T09:24:31.921] [INFO] info - NEW USER REGISTERED: julia@gmail.com
+[2023-04-21T09:24:55.449] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T09:32:07.238] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T09:32:44.819] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T09:33:11.424] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T10:25:53.851] [ERROR] error - ERROR IN REGISTER PROCESS: Name is missing
+[2023-04-21T10:25:59.139] [ERROR] error - ERROR IN REGISTER PROCESS: Name is missing
+[2023-04-21T10:26:15.099] [ERROR] error - ERROR IN REGISTER PROCESS: Name is missing
+[2023-04-21T10:26:26.883] [ERROR] error - ERROR IN REGISTER PROCESS: lastname is missing
+[2023-04-21T10:26:42.487] [ERROR] error - ERROR IN REGISTER PROCESS: lastname is missing
+[2023-04-21T10:26:49.012] [ERROR] error - ERROR IN REGISTER PROCESS: email is missing
+[2023-04-21T10:26:58.804] [ERROR] error - ERROR IN REGISTER PROCESS: password is missing
+[2023-04-21T10:27:06.200] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T19:29:08.223] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-21T19:29:08.251] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-04-22T10:45:21.523] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-11T11:36:06.540] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T08:18:49.176] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T08:36:24.077] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T09:56:39.630] [ERROR] error - ERROR IN LOGIN PROCESS: Email missing
+[2023-05-16T09:57:28.108] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T10:00:17.267] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T10:00:55.686] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-16T10:34:40.758] [ERROR] error - ERROR IN LOGIN PROCESS: Email missing
+[2023-05-16T10:34:57.732] [ERROR] error - ERROR IN LOGIN PROCESS: Email missing
+[2023-05-16T10:35:45.002] [ERROR] error - ERROR IN LOGIN PROCESS: Email missing
+[2023-05-16T10:36:06.484] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-17T11:07:18.640] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-05-30T08:33:53.723] [ERROR] error - ERROR IN LOGIN PROCESS: Email missing
+[2023-05-30T08:34:18.176] [INFO] info - USER LOGIN: jorgeandresmm2002@gmail.com
+[2023-06-19T14:28:41.839] [ERROR] error - ERROR IN LOGIN PROCESS: The user jorgeandresmmg2002@gmail.com doesnt exits
+[2023-06-19T14:31:20.337] [ERROR] error - ERROR IN LOGIN PROCESS: The user jorgeandresmmg2002@gmail.com doesnt exits
+[2023-06-19T14:31:44.114] [ERROR] error - ERROR IN LOGIN PROCESS: The user jorgeandresmmg2002@gmail.com doesnt exits
